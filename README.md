@@ -2,8 +2,9 @@
  
 ## I'm Cristhoffer Nunes
  
-Student of systems analysis and development and do volunteer work at Kurz as a back-end programmer. 
-Focused in Java | Node.js 👨‍💻
+* Student of systems analysis and development 
+* Volunteer work at Kurz as a back-end programmer. 
+* Focused in Java | Node.js 👨‍💻
  
  
 ## About me 
