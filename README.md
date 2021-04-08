@@ -1,10 +1,10 @@
-<h1 align="center"> Welcome!</h1>
+<h1 align="center">👋 Welcome! 👋</h1>
  
-## I'm Cristhoffer Nunes
+## I'm Cristhoffer Nunes 🧑🏽‍💻
  
-* Student of systems analysis and development 
-* Volunteer work at Kurz as a back-end programmer. 
-* Focused in Java | Node.js 👨‍💻
+* Student of systems analysis and development 👨🏽‍🎓
+* Volunteer work at Kurz as a back-end programmer. 👨‍💻
+* Focused in Java | Node.js 🔥
  
 ## Skills
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristhoffer-nunes)
