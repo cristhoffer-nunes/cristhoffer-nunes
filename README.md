@@ -6,6 +6,8 @@
 * Volunteer work at Kurz as a back-end programmer. 
 * Focused in Java | Node.js 👨‍💻
  
+## Skills
+![GitHub repo size](https://img.shields.io/github/repo-size/cristhoffer-nunes/cristhoffer-nunes?label=Java&logo=Java&logoColor=Java&style=flat-square)
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/cristhoffer-nunes)
