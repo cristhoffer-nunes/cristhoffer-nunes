@@ -18,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhoffer-nunes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhoffer-nunes)
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitelink=link_do_seu_perfil_no_github)](https://github.com/cristhoffer-nunes)
