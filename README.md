@@ -1,11 +1,11 @@
 ### Welcome! 👋
-## I'm Cristhoffer Nunes
+## I'm Cristhoffer Santos
  
 ### 💻 About me
  
-* 👨🏽‍🎓 Student of systems analysis and development 
-* 👨🏾‍💻 Back end developer at JBQ Global.
-* 🔥 Focused in Node.js 
+* 👨🏽‍🎓 Graduated in systems analysis and development
+* 👨🏾‍💻 NOC Developer at JBQ Global.
+* 🔥 Rest API with Node.js and Python automation
  
 ### 🛠  Tech Skills
 <p>
