@@ -1,11 +1,15 @@
-### Welcome! 👋
+# Welcome! 👋
 ## I'm Cristhoffer Santos
- 
+
+
 ### 💻 About me
  
 * 👨🏽‍🎓 Graduated in systems analysis and development
 * 👨🏾‍💻 NOC Developer at JBQ Global.
-* 🔥 Rest API with Node.js and Python automation
+
+### Experiencie
+
+I have experience as a NOC industry analyst using Azure Monitor tool and Kusto Query Language; backend development using Nodejs, typescript, ORM, SQL database and Docker; experience with Oracle Commerce Cloud environment and its respective REST APIs.
  
 ### 🛠  Tech Skills
 <p>
@@ -16,7 +20,9 @@
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></p>
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 <p>
 <a href="https://github.com/AVS1508">
