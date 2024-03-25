@@ -5,11 +5,11 @@
 ### 💻 About me
  
 * 👨🏽‍🎓 Graduated in systems analysis and development
-* 👨🏾‍💻 NOC Developer at JBQ Global.
+* 👨🏾‍💻 Backend Developer at JBQ Global.
 
 ### Experiencie
 
-I have experience as a NOC industry analyst using Azure Monitor tool and Kusto Query Language; backend development using Nodejs, typescript, ORM, SQL database and Docker; experience with Oracle Commerce Cloud environment and its respective REST APIs.
+I have experience as a NOC industry analyst using Azure Monitor tool and Kusto Query Language; backend development using Nodejs, typescript, ORM, SQL/NoSQL database and Docker; experience with Oracle Commerce Cloud/Oracle Integration Cloud environment and its respective REST APIs.
  
 ### 🛠  Tech Skills
 <p>
